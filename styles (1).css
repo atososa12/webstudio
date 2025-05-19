@@ -26,7 +26,7 @@ body {
 
 /* Header con degradado marrón */
 header {
-  background: linear-gradient(to right, #ecb08e, #d0a08f);
+  background: linear-gradient(to right, #bd9d8b, #d0a08f);
   color: white;
   text-align: center;
   padding: 1rem 0;
